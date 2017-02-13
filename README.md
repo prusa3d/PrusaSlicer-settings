@@ -6,7 +6,7 @@ This project contains the Slic3r profiles for the 3D printers produced by Prusa 
 * [Slic3r settings 175 - Settings for the Prusa i3 with a 1.75mm filament extruder](https://github.com/prusa3d/Slic3r-settings/tree/master/Slic3r%20settings%20175)
 * [Slic3r settings 3mm - Settings for the Prusa i3 with a 3mm filament extruder](https://github.com/prusa3d/Slic3r-settings/tree/master/Slic3r%20settings%203mm)
 
-To apply these settings, you have to copy the particular github folder (
+To apply these settings, you have to copy the particular github folder
 ([Slic3r settings MK2](https://github.com/prusa3d/Slic3r-settings/tree/master/Slic3r%20settings%20MK2) / 
 [Slic3r settings 175](https://github.com/prusa3d/Slic3r-settings/tree/master/Slic3r%20settings%20175) / 
 [Slic3r settings 3mm](https://github.com/prusa3d/Slic3r-settings/tree/master/Slic3r%20settings%203mm)
