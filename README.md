@@ -9,7 +9,7 @@ This project contains the Slic3r profiles for the 3D printers produced by Prusa 
 To apply these settings, you have to copy the particular github folder
 ([Slic3r settings MK2](https://github.com/prusa3d/Slic3r-settings/tree/master/Slic3r%20settings%20MK2) / 
 [Slic3r settings 175](https://github.com/prusa3d/Slic3r-settings/tree/master/Slic3r%20settings%20175) / 
-[Slic3r settings 3mm](https://github.com/prusa3d/Slic3r-settings/tree/master/Slic3r%20settings%203mm)
+[Slic3r settings 3mm](https://github.com/prusa3d/Slic3r-settings/tree/master/Slic3r%20settings%203mm))
 into a local folder, where Slic3r will find it. The destination depends on your operating system:
 
 * Windows: "C:\Users\your_user_name\AppData\Roaming\Slic3r\" or "C:\Documents and Settings\your_user_name\Application Data\Slic3r\"
