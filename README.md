@@ -13,7 +13,7 @@ To apply these settings, you have to copy the particular github folder
 into a local folder, where Slic3r will find it. The destination depends on your operating system:
 
 * Windows: "C:\Users\your_user_name\AppData\Roaming\Slic3r\" or "C:\Documents and Settings\your_user_name\Application Data\Slic3r\"
-* Mac: "~/Library/Application Support/Slic3r/"
+* Mac: "~/Library/Application\ Support/Slic3r/"
 * Unix / Linux: "~/.Slic3r/"
 
 In case you installed the Prusa3D Windows drivers package, the Start menu is filled in with Slic3r shortcuts. These shortcuts are stored in "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Prusa3D" and they point Slic3r to the particular settings folder using the --DataDir switch.
