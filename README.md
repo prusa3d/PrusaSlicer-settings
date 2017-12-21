@@ -18,7 +18,7 @@ into a local folder, where Slic3r will find it. The destination depends on your 
 
 In case you installed the Prusa3D Windows drivers package, the Start menu is filled in with Slic3r shortcuts. These shortcuts are stored in "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Prusa3D" and they point Slic3r to the particular settings folder using the --DataDir switch.
 
-* "C:\Users\Public\Documents\Prusa3D\Slic3r settings MK2" for the MK2 & MK2S
+* "C:\Users\Public\Documents\Prusa3D\Slic3r settings MK2" for the MK2 & MK2S &MK2MM & MK3
 * "C:\Users\Public\Documents\Prusa3D\Slic3r settings 175" for the legacy i3 with a 1.75mm extruder
 * "C:\Users\Public\Documents\Prusa3D\Slic3r settings 3mm" for the legacy i3 with a 3mm filament extruder
 
