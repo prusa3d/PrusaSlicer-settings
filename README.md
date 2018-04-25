@@ -1,8 +1,24 @@
-# Slic3r-settings
+# Slic3r PE - settings 
+
+### Applicable since Slic3r PE 1.40.0
+
+Slic3r settings are present in the `live` directory. The structure is as follows:
+
+`live / {vendor name} / {bundle version}.ini`
+
+Each bundle contains complete configuration of relevant printers, filaments and prints options.
+
+Along with them is an index file, which Slic3r reads and uses to find out which version is the newest compatible:
+
+`live / {vendor name} / index.ini`
+
+Slic3r downloads these setting bundles automatically (unless updating is disabled), and so there should be no need to install them by hand.
+
+## Settings for previous / legacy Slic3r versions
 
 This project contains the Slic3r profiles for the 3D printers produced by Prusa Research http://www.prusa3d.com/
 
-* [Slic3r settings MK2 - Settings for the Original Prusa i3 MK2 & MK2S & MK2MM & MK3](https://github.com/prusa3d/Slic3r-settings/tree/master/Slic3r%20settings%20MK2S%20MK2MM%20and%20MK3)
+* [Slic3r settings MK2 - Settings for the Original Prusa i3 MK2 & MK2S & MK2MM & MK3](https://github.com/prusa3d/Slic3r-settings/tree/master/old/Slic3r%20settings%20MK2S%20MK2MM%20and%20MK3)
 * [Slic3r settings 175 - Settings for the Prusa i3 with a 1.75mm filament extruder](https://github.com/prusa3d/Slic3r-settings/tree/master/old/Slic3r%20settings%20175)
 * [Slic3r settings 3mm - Settings for the Prusa i3 with a 3mm filament extruder](https://github.com/prusa3d/Slic3r-settings/tree/master/old/Slic3r%20settings%203mm)
 
