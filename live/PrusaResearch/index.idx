@@ -1,4 +1,5 @@
 min_slic3r_version = 1.40.0
+0.1.9 edited support extrusion width for 0.25 and 0.6 nozzles
 0.1.8 extrusion width for 0,25, 0.6 and variable layer height fixes
 0.1.7 Fixed errors in 0.25mm and 0.6mm profiles
 0.1.6 Split the MK2.5 profile from the MK2S
