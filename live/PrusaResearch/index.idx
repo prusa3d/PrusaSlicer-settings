@@ -1,4 +1,5 @@
 min_slic3r_version = 1.41.0-alpha
+0.2.0-beta3 Edited ramming parameters and filament cooling moves for MMU2
 0.2.0-beta2 Edited first layer speed and wipe tower position
 0.2.0-beta Removed limit on the MK3MMU2 height, added legacy M204 S T format to the MK2 profiles
 0.2.0-alpha8 Added filament_load/unload_time for the PLA/ABS MMU2 filament presets.
