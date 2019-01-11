@@ -1,0 +1,19 @@
+Changelog
+
+0.3.4
+-----
+- New firmware versions (3.5.1) for MK2.5 and MK3
+- Fixed acceleration value for infill (changed from 1250mm/s2 to 2000mm/s2) in “0.2mm NORMAL” 
+  print settings (MK2/MK2.5 and MMU variants).
+- Assigned correct default filament profile to “Original Prusa i3 MK3 MMU2 Single”
+  printer profile. Incorrect default filament caused spontaneous switch to Colorfabb
+  Brass Bronze.
+- Enabled variable layer height feature for all MMU1 printer profiles.
+- Enabled variable layer height feature for MK2/MK2.5 0.25mm nozzle printer
+  variants.
+- Layer height limits (variable layer height) for 0.25mm nozzle printer variants
+  changed from 0.05-0.1mm to 0.05-0.15mm.
+- Removed redundant retraction after initial purge line in MMU1 printer profiles.
+- Filament “Colorfabb XT-CF20” is now available only for printers with nozzle
+  diameter greater than 0.35mm.
+- Various small changes in the Notes section of filament settings.
