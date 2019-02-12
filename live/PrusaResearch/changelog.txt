@@ -1,5 +1,23 @@
 Changelog
 
+0.4.0
+-----
+- Added printer profiles for MK3S.
+- Added printer profiles for MK2.5S.
+- Added printer profiles for MMU2S.
+- Renamed MK2 printer profiles (MK2S).
+- Added new print settings "0.07mm ULTRADETAIL" (MK3/MK3S)
+- Added new print settings "0.15mm QUALITY" and "0.15mm SPEED" (MK3/MK3S)
+- Added new print settings "0.20mm QUALITY" and "0.20mm SPEED" (MK3/MK3S)
+- Removed print settings "0.15mm OPTIMAL" and "0.20mm FAST" (MK3/MK3S) 
+- Changed default infill to 15% gyroid for "0.05mm ULTRADETAIL" and "0.1mm DETAIL" print settings
+- Added filament profile for PrimaSelect PVA+ (MMU2/MMU2S).
+- "SOLUBLE" print settings - reduced maximal bridging distance on sparse infill sections 
+  of the wipe tower (10mm -> 8mm).
+- Updated MK2.5 MMU2 "SOLUBLE" print profiles. Soluble filament is now assigned to 
+  extruder 5 by default (changed from 4). 
+- Updated toolchange parameters in filament settings (MMU2/MMU2S).
+
 0.3.4
 -----
 - New firmware versions (3.5.1) for MK2.5 and MK3
