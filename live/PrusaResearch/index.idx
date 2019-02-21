@@ -4,6 +4,7 @@ min_slic3r_version = 1.42.0-alpha
 0.4.0-alpha3 Update of SLA profiles
 0.4.0-alpha2 First SLA profiles
 min_slic3r_version = 1.41.3-alpha
+0.4.1 New MK2.5S and MK3S FW versions
 0.4.0 Changelog: https://github.com/prusa3d/Slic3r-settings/blob/master/live/PrusaResearch/changelog.txt 
 min_slic3r_version = 1.41.1
 0.3.4 Changelog: https://github.com/prusa3d/Slic3r-settings/blob/master/live/PrusaResearch/changelog.txt 
