@@ -1,5 +1,9 @@
 Changelog
 
+0.4.1
+-----
+- New MK2.5S and MK3S FW versions
+
 0.4.0
 -----
 - Added printer profiles for MK3S.
