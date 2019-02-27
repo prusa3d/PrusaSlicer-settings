@@ -5,17 +5,17 @@ Changelog
 - Updated print settings for 0.6mm nozzle (MK3/MK3S):
     - Added new print settings "0.30mm QUALITY", "0.35mm SPEED" and "0.40mm DRAFT".
     - Removed "0.10mm DETAIL 0.6 nozzle MK3" print setting.
-	  - Updated layer height limits in printer settings.
+    - Updated layer height limits in printer settings.
     - Default infill changed to 15% gyroid. 
     - Added "Prusa PET 0.6 nozzle" and "Prusament PETG 0.6 nozzle" material profiles with higher volumetric speed 
-	  limits (visible only for 0.6mm nozzle printer variants). 
+    limits (visible only for 0.6mm nozzle printer variants). 
 	
 - Updated print settings for 0.25mm nozzle (MK3/MK3S):
     - Added new print setting "0.07mm ULTRADETAIL".
     - Reduced speeds for 0.1mm and 0.15mm settings.
     - Print setting "0.15mm OPTIMAL" renamed to "0.15mm QUALITY".
     - Increased first layer extrusion width for better adhesion on powder coated PEI sheets.
-	  - Optimized intro line. 
+    - Optimized intro line. 
 
 - Updated "ColorFabb Brass Bronze" filament profile. Added steelFill and copperFill to filament notes.
 
