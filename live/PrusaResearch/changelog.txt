@@ -1,5 +1,11 @@
 Changelog
 
+0.4.3
+-----
+
+- Added filament profile for ColorFabb corkFill.
+- Updated firmware versions for MK2.5/S and MK3/S.
+
 0.4.2
 -----
 - Updated print settings for 0.6mm nozzle (MK3/MK3S):
