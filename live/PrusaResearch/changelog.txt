@@ -1,5 +1,9 @@
 Changelog
 
+0.4.4
+-----
+- Added new print profile "0.30mm DRAFT" (MK3/MK3S).
+
 0.4.3
 -----
 - Added filament profile for ColorFabb corkFill.
