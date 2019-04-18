@@ -1,5 +1,9 @@
 Changelog
 
+0.4.5
+-----
+- Enabled remaining time support for MK2/S.
+
 0.4.4
 -----
 - Added new print profile "0.30mm DRAFT" (MK3/MK3S).
