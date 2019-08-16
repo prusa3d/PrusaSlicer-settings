@@ -1,8 +1,8 @@
-# Slic3r PE - settings 
+# PrusaSlicer - settings 
 
 ### Applicable since Slic3r PE 1.40.0
 
-Slic3r settings are present in the `live` directory. The structure is as follows:
+PrusaSlicer settings are present in the `live` directory. The structure is as follows:
 
 `live / {vendor name} / {bundle version}.ini`
 
