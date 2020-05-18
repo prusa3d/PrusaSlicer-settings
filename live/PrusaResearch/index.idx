@@ -1,4 +1,5 @@
 min_slic3r_version = 2.2.0-alpha3
+1.1.5 Updated MMU1 specific retraction settings for Prusament PC Blend
 1.1.4 Added Prusament PC Blend filament profile.
 1.1.3 Added SLA material and filament profile
 1.1.2 Added renamed_from fields for PETG filaments to indicate that they were renamed from PET.
