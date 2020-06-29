@@ -1,4 +1,5 @@
 min_slic3r_version = 2.2.0-alpha3
+1.1.7 Updated end g-code for MMU2 Single printer profiles. Added/updated filament and SLA material profiles.
 1.1.6 Updated firmware version for MK2.5/S and MK3/S.
 1.1.5 Updated MMU1 specific retraction settings for Prusament PC Blend
 1.1.4 Added Prusament PC Blend filament profile.
