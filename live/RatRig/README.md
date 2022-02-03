@@ -1,4 +1,4 @@
-# RatRig configuration bundle
+## RatRig configuration bundle
 
 Based on the profiles from PR: https://github.com/slic3r/slic3r-profiles/pull/13 by @top-gun
 
