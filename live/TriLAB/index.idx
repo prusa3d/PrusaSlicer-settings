@@ -1,3 +1,5 @@
+min_slic3r_version = 2.4.1-rc1
+1.0.0 Added AzteQ Industrial profiles for 0.8 nozzle, updated spool weight and filament cost, some minor setting improvements
 min_slic3r_version = 2.3.2-alpha0
 0.0.9 Added AzteQ Industrial materials PC/ABS (Fillamentum), PC-Max (Polymaker), Nylon FX256 (Fillamentum), Added DeltiQ 2 materials Nylon PA12 (Fiberlogy), Nylon CF15 Carbon (Fillamentum), PEBA 90A - FlexFill (Fillamentum), MoldLay (Wax-Alike), disabled retract only when crossing perimeters, some minor setting improvements
 0.0.8 Added new AzteQ Industrial printer, added DeltiQ 2 profiles for 0.6mm nozzle, added material ASA 275 (Spectrum), some minor setting improvements
