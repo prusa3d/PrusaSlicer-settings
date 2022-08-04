@@ -1,3 +1,5 @@
+min_slic3r_version = 2.5.0-alpha0
+1.5.0-alpha0 Added parameters for Arachne perimeter generator. Changed default seam position. Updated output filename format.
 min_slic3r_version = 2.4.0-rc
 1.4.6 Added SLA materials. Updated filament profiles. 
 1.4.5 Added MMU2/S profiles for 0.25mm nozzle. Updated FW version. Enabled g-code thumbnails for MK3 family printers. Updated end g-code.
