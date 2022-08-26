@@ -1,4 +1,5 @@
 min_slic3r_version = 2.5.0-alpha0
+1.5.1 Renamed filament type "NYLON" to "PA". Updated Adura X profile. Updated PETG fan settings for Prusa MINI (removed fan ramp up).
 1.5.0 Updated arachne parameters. Added profiles for Jessie filaments.
 1.5.0-alpha1 Added filament profile for Prusament PA11 Carbon Fiber. Added profiles for multiple 3D-Fuel filaments.
 1.5.0-alpha0 Added parameters for Arachne perimeter generator. Changed default seam position. Updated output filename format.
