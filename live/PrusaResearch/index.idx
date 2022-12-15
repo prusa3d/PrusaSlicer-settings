@@ -1,4 +1,5 @@
 min_slic3r_version = 2.5.0-alpha0
+1.5.5 Added new Prusament Resin material profiles. Enabled g-code thumbnails for MK2.5 family printers.
 1.5.4 Added material profiles for Prusament Resin BioBased60.
 1.5.3 Added filament profiles for ColorFabb VarioShore TPU, FormFutura PP, NinjaTek NinjaFlex/Cheetah TPU and for multiple Eolas Prints filaments. Updated bridging settings in 50um and 70um profiles. 
 1.5.2 Added SLA material profiles.
