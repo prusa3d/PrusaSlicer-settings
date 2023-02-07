@@ -1,4 +1,7 @@
+min_slic3r_version = 2.6.0-alpha1
+1.6.0-alpha0 Default top fill set to monotonic lines. Updated infill/perimeter overlap values. Updated output filename format. Enabled dynamic overhang speeds.
 min_slic3r_version = 2.5.0-alpha0
+1.5.6 Updated FW version notification (MK2.5/MK3 family). Added filament profile for Kimya PEBA-S.
 1.5.5 Added new Prusament Resin material profiles. Enabled g-code thumbnails for MK2.5 family printers.
 1.5.4 Added material profiles for Prusament Resin BioBased60.
 1.5.3 Added filament profiles for ColorFabb VarioShore TPU, FormFutura PP, NinjaTek NinjaFlex/Cheetah TPU and for multiple Eolas Prints filaments. Updated bridging settings in 50um and 70um profiles. 
@@ -8,6 +11,7 @@ min_slic3r_version = 2.5.0-alpha0
 1.5.0-alpha1 Added filament profile for Prusament PA11 Carbon Fiber. Added profiles for multiple 3D-Fuel filaments.
 1.5.0-alpha0 Added parameters for Arachne perimeter generator. Changed default seam position. Updated output filename format.
 min_slic3r_version = 2.4.0-rc
+1.4.9 Updated FW version notification.
 1.4.8 Added filament and SLA material profiles. Updated settings.
 1.4.7 Added filament profile for Prusament PA11 Carbon Fiber. Added profiles for multiple 3D-Fuel filaments.
 1.4.6 Added SLA materials. Updated filament profiles. 
@@ -37,6 +41,7 @@ min_slic3r_version = 2.4.0-alpha0
 1.3.0-alpha1 Added Prusament PCCF. Increased travel acceleration for Prusa MINI. Updated start g-code for Prusa MINI. Added multiple add:north and Extrudr filament profiles. Updated Z travel speed values.
 1.3.0-alpha0 Disabled thick bridges, updated support settings.
 min_slic3r_version = 2.3.2-alpha0
+1.3.8 Updated FW version notification.
 1.3.7 Updated firmware version.
 1.3.6 Updated firmware version.
 1.3.5 Added material profiles for Prusament Resins.
@@ -46,6 +51,7 @@ min_slic3r_version = 2.3.2-alpha0
 1.3.1 Added multiple add:north and Extrudr filament profiles. Updated support head settings (SL1S).
 1.3.0 Added SL1S SPEED profiles.
 min_slic3r_version = 2.3.0-rc1
+1.2.13 Updated FW version notification.
 1.2.12 Updated firmware version.
 1.2.11 Updated firmware version.
 1.2.10 Added multiple profiles for Filatech filaments. Updated SLA print settings (pad wall slope angle).
@@ -67,6 +73,7 @@ min_slic3r_version = 2.3.0-alpha4
 1.2.0-alpha1 Renamed MK3S and MINI printer profiles. Updated end g-code (MINI). Added new SLA materials and filament profiles.
 1.2.0-alpha0 Added filament spool weights
 min_slic3r_version = 2.2.0-alpha3
+1.1.17 Updated FW version notification.
 1.1.16 Updated firmware version.
 1.1.15 Updated firmware version.
 1.1.14 Updated firmware version.
@@ -93,6 +100,7 @@ min_slic3r_version = 2.2.0-alpha0
 1.1.1-alpha2 Bumped up config version, so our in house customer will get updated profiles.
 1.1.0 Filament aliases, Creality profiles and other goodies for PrusaSlicer 2.2.0-alpha0
 min_slic3r_version = 2.1.1-beta0
+1.0.13 Updated FW version notification.
 1.0.12 Updated firmware version.
 1.0.11 Updated firmware version.
 1.0.10 Updated firmware version for MK2.5/S and MK3/S.
