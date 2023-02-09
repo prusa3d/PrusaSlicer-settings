@@ -1,4 +1,5 @@
 min_slic3r_version = 2.6.0-alpha2
+0.2.1 Added Eolas Prints filaments.
 0.2.0 Added Photon Mono X printer.
 min_slic3r_version = 2.4.1-rc1
 0.1.2 Added VOXELPLA filament profile.
