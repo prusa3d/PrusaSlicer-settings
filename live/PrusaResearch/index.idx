@@ -2,6 +2,7 @@ min_slic3r_version = 2.6.0-alpha1
 1.6.0-alpha1 Updated FW version notification. Decreased min layer time for PLA.
 1.6.0-alpha0 Default top fill set to monotonic lines. Updated infill/perimeter overlap values. Updated output filename format. Enabled dynamic overhang speeds.
 min_slic3r_version = 2.5.0-alpha0
+1.5.7 Added filament profile for Prusament PETG Carbon Fiber and Fiberthree F3 PA-GF30 Pro.
 1.5.6 Updated FW version notification (MK2.5/MK3 family). Added filament profile for Kimya PEBA-S.
 1.5.5 Added new Prusament Resin material profiles. Enabled g-code thumbnails for MK2.5 family printers.
 1.5.4 Added material profiles for Prusament Resin BioBased60.
