@@ -1,49 +1,16 @@
-# PrusaSlicer - settings 
 
-### Applicable since Slic3r PE 1.40.0
+![AnkerMake logo](/resources/icons/ankermake-app.png?raw=true)
 
-PrusaSlicer settings are present in the `live` directory. The structure is as follows:
+# AnkerMake M5 Settings for PrusaSlicer
 
-`live / {vendor name} / {bundle version}.ini`
+The official AnkerMake M5 settings are housed in this repository, and they have been carefully crafted for use exclusively with PrusaSlicer. These settings have undergone an exhaustive review process and have been formally submitted to the PrusaSlicer team for consideration. You can access the tutorial on using the settings directly through [Adding AnkerMake M5 to Prusa and Cura Guide](https://support.ankermake.com/s/article/Adding-AnkerMake-M5-to-Prusa-and-Cura-Guide#content1). Additionally, the settings will be integrated into the upcoming version of PrusaSlicer.
 
-Each bundle contains complete configuration of relevant printers, filaments and prints options.
+We are fully dedicated to maintaining and updating this repository to ensure that users always have access to the most current settings.
 
-Along with them is an index file, which Slic3r reads and uses to find out which version is the newest compatible:
+We would like to express our deep appreciation to [Just Trey](https://github.com/just-trey) for his invaluable contributions. It should be noted that these settings are built upon his repository [ankermake-m5-profile](https://github.com/just-trey/ankermake-m5-profile). Enthusiasts who are passionate about improving or testing the settings are welcome to provide feedback.
 
-`live / {vendor name} / index.ini`
+### Licenses
 
-Slic3r downloads these setting bundles automatically (unless updating is disabled), and so there should be no need to install them by hand.
+The settings for the AnkerMake M5 that are designed for use with PrusaSlicer have been released under the [GNU AFFERO GENERAL PUBLIC LICENSE](/License).
 
-## Settings for previous / legacy Slic3r versions
 
-This project contains the Slic3r profiles for the 3D printers produced by Prusa Research https://www.prusa3d.com/
-
-* [Slic3r settings MK2 - Settings for the Original Prusa i3 MK2 & MK2S & MK2MM & MK3](https://github.com/prusa3d/Slic3r-settings/tree/master/old/Slic3r%20settings%20MK2S%20MK2MM%20and%20MK3)
-* [Slic3r settings 175 - Settings for the Prusa i3 with a 1.75mm filament extruder](https://github.com/prusa3d/Slic3r-settings/tree/master/old/Slic3r%20settings%20175)
-* [Slic3r settings 3mm - Settings for the Prusa i3 with a 3mm filament extruder](https://github.com/prusa3d/Slic3r-settings/tree/master/old/Slic3r%20settings%203mm)
-
-To apply these settings, you have to copy the particular github folder
-([Slic3r settings MK2, MK2S, MK2MM and MK3](https://github.com/prusa3d/Slic3r-settings/tree/master/Slic3r%20settings%20MK2S%20MK2MM%20and%20MK3) /
-[Slic3r settings 175](https://github.com/prusa3d/Slic3r-settings/tree/master/old/Slic3r%20settings%20175) /
-[Slic3r settings 3mm](https://github.com/prusa3d/Slic3r-settings/tree/master/old/Slic3r%20settings%203mm))
-into a local folder, where Slic3r will find it. The destination depends on your operating system and Slic3r version:
-
-__Slic3r PE 1.38.4 and later__
-
- * Windows: "C:\Users\your_user_name\AppData\Roaming\Slic3rPE" or "C:\Documents and Settings\your_user_name\Application Data\Slic3rPE"
- * Mac: ~/Library/Application\ Support/Slic3rPE/
- * Unix / Linux: "~/.Slic3rPE/"
-
-__All other versions__
-
-* Windows: "C:\Users\your_user_name\AppData\Roaming\Slic3r\" or "C:\Documents and Settings\your_user_name\Application Data\Slic3r\"
-* Mac: "~/Library/Application Support/Slic3r/"
-* Unix / Linux: "~/.Slic3r/"
-
-In case you installed the Prusa3D Windows drivers package, the Start menu is filled in with Slic3r shortcuts. These shortcuts are stored in "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Prusa3D" and they point Slic3r to the particular settings folder using the --DataDir switch.
-
-* "C:\Users\Public\Documents\Prusa3D\Slic3r settings MK2" for the MK2 & MK2S &MK2MM & MK3
-* "C:\Users\Public\Documents\Prusa3D\Slic3r settings 175" for the legacy i3 with a 1.75mm extruder
-* "C:\Users\Public\Documents\Prusa3D\Slic3r settings 3mm" for the legacy i3 with a 3mm filament extruder
-
-Therefore if you installed the Windows drivers package from Prusa3D, you may as well extract the whole ([Slic3r settings](https://github.com/prusa3d/Slic3r-settings/tree/master/) to "C:\Users\Public\Documents\Prusa3D\".
