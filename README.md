@@ -9,7 +9,7 @@ We are fully dedicated to maintaining and updating this repository to ensure tha
 
 We would like to express our deep appreciation to [Just Trey](https://github.com/just-trey) for his invaluable contributions. It should be noted that these settings are built upon his repository [ankermake-m5-profile](https://github.com/just-trey/ankermake-m5-profile). Enthusiasts who are passionate about improving or testing the settings are welcome to provide feedback.
 
-### Licenses
+## Licenses
 
 The settings for the AnkerMake M5 that are designed for use with PrusaSlicer have been released under the [GNU AFFERO GENERAL PUBLIC LICENSE](/License).
 
