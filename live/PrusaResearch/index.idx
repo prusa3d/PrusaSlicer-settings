@@ -1,4 +1,5 @@
 min_slic3r_version = 2.6.0-alpha1
+1.7.0-alpha0 Added profiles for Print With Smile filaments.
 1.6.0-alpha2 Added profile for Prusament PETG Carbon Fiber and Fiberthree F3 PA-GF30 Pro. Updated acceleration settings for Prusa MINI.
 1.6.0-alpha1 Updated FW version notification. Decreased min layer time for PLA.
 1.6.0-alpha0 Default top fill set to monotonic lines. Updated infill/perimeter overlap values. Updated output filename format. Enabled dynamic overhang speeds.
