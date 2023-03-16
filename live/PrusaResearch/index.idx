@@ -1,4 +1,5 @@
 min_slic3r_version = 2.6.0-alpha5
+1.7.0-alpha2 Updated compatibility condition in some filament profiles (Prusa XL).
 1.7.0-alpha1 Added profiles for Original Prusa XL. Added filament profile for Prusament PETG Tungsten 75%.
 min_slic3r_version = 2.6.0-alpha1
 1.7.0-alpha0 Added profiles for Print With Smile filaments.
@@ -6,6 +7,7 @@ min_slic3r_version = 2.6.0-alpha1
 1.6.0-alpha1 Updated FW version notification. Decreased min layer time for PLA.
 1.6.0-alpha0 Default top fill set to monotonic lines. Updated infill/perimeter overlap values. Updated output filename format. Enabled dynamic overhang speeds.
 min_slic3r_version = 2.5.1-rc0
+1.6.2 Updated compatibility condition in some filament profiles (Prusa XL).
 1.6.1 Added filament profile for Prusament PETG Tungsten 75%. Updated Prusa XL profiles.
 1.6.0 Added Original Prusa XL profiles. Updated acceleration settings for Prusa MINI. Updated infill/perimeter overlap values.
 min_slic3r_version = 2.5.0-alpha0
