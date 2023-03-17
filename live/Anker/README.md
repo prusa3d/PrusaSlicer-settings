@@ -1,5 +1,5 @@
 
-![AnkerMake logo](/resources/icons/ankermake-app.png?raw=true)
+![AnkerMake logo](ankermake-app.png?raw=true)
 
 # AnkerMake M5 Settings for PrusaSlicer
 
