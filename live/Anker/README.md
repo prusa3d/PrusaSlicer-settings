@@ -11,6 +11,6 @@ We would like to express our deep appreciation to [Just Trey](https://github.com
 
 ## Licenses
 
-The settings for the AnkerMake M5 that are designed for use with PrusaSlicer have been released under the [GNU AFFERO GENERAL PUBLIC LICENSE].
+The settings for the AnkerMake M5 that are designed for use with PrusaSlicer have been released under the GNU AFFERO GENERAL PUBLIC LICENSE.
 
 
