@@ -1,10 +1,10 @@
-2.5.0
-alpha=2.6.0-alpha5
+2.5.2
+alpha=2.6.0-alpha6
 beta=2.5.0-beta1
 
 [common]
-release = 2.5.0
-alpha = 2.6.0-alpha5
+release = 2.5.2
+alpha = 2.6.0-alpha6
 beta = 2.5.0-beta1
 rc = 2.5.0-rc2
 
