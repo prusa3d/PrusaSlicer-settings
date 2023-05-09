@@ -12,11 +12,13 @@ min_slic3r_version = 2.6.0-alpha1
 1.6.0-alpha1 Updated FW version notification. Decreased min layer time for PLA.
 1.6.0-alpha0 Default top fill set to monotonic lines. Updated infill/perimeter overlap values. Updated output filename format. Enabled dynamic overhang speeds.
 min_slic3r_version = 2.5.2-rc0
+1.7.4 Updated start g-code script for MK4/XL (fixed pre-print temperature for PA filaments).
 1.7.3 Updated XL and MK4 profiles. Updated PC Blend Carbon Fiber density.
 1.7.2 Updated compatibility condition for MMU1 filaments.
 1.7.1 Added SLA materials. Updated MK4 and XL profiles.
 1.7.0 Added profiles for Original Prusa MK4.
 min_slic3r_version = 2.5.1-rc0
+1.6.5 Updated start g-code script for MK4/XL (fixed pre-print temperature for PA filaments).
 1.6.4 Fixed compatibility condition for MMU1 filaments.
 1.6.3 Added SLA materials.
 1.6.2 Updated compatibility condition in some filament profiles (Prusa XL).
