@@ -9,13 +9,13 @@ beta = 2.6.0-beta2
 rc = 2.5.0-rc2
 
 [release:win64]
-url = https://cdn.prusa3d.com/downloads/drivers/PrusaSlicer_Win_standalone_2.5.0.exe
-size = 85431576
+url = https://cdn.prusa3d.com/downloads/drivers/PrusaSlicer_Win_standalone_2.5.2.exe
+size = 85814296
 
 [release:linux]
-url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.5.0/PrusaSlicer-2.5.0+linux-x64-GTK3-202209060725.AppImage
-size = 69489856
+url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.5.2/PrusaSlicer-2.5.2+linux-x64-GTK3-202303231201.AppImage
+size = 69915840
 
 [release:osx]
-url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.5.0/PrusaSlicer-2.5.0+MacOS-universal-202209060719.dmg
-size = 89710582
+url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.5.2/PrusaSlicer-2.5.2+MacOS-universal-202303231232.dmg
+size = 90237989
