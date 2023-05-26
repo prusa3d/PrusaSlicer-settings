@@ -1,3 +1,5 @@
+min_slic3r_version = 2.6.0-beta2
+1.9.0-beta2 Added profiles for Original Prusa MK4 Input Shaper (Alpha).
 min_slic3r_version = 2.6.0-beta0
 1.9.0-beta1 Updated cooling settings for some ASA filaments to increase interlayer adhesion (XL/MK4).
 1.9.0-beta0 Updated start g-code script for MK4/XL.
