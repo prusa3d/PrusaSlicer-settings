@@ -6,7 +6,7 @@ beta=2.6.0-beta4
 release = 2.5.2
 alpha = 2.6.0-alpha6
 beta = 2.6.0-beta4
-rc = 2.6.0-rc1
+rc = 2.6.0-rc2
 
 [release:win64]
 url = https://cdn.prusa3d.com/downloads/drivers/PrusaSlicer_Win_standalone_2.5.2.exe
