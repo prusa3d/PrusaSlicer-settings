@@ -1,4 +1,5 @@
 min_slic3r_version = 2.6.0-beta2
+1.9.1 Added new Prusament Resin material profiles.
 1.9.0 Bumped up configuration version.
 1.9.0-beta3 Updated start g-code for MK4 (modified purge line and nozzle cleaning).
 1.9.0-beta2 Added profiles for Original Prusa MK4 Input Shaper (Alpha).
@@ -19,6 +20,7 @@ min_slic3r_version = 2.6.0-alpha1
 1.6.0-alpha1 Updated FW version notification. Decreased min layer time for PLA.
 1.6.0-alpha0 Default top fill set to monotonic lines. Updated infill/perimeter overlap values. Updated output filename format. Enabled dynamic overhang speeds.
 min_slic3r_version = 2.5.2-rc0
+1.7.7 Added new Prusament Resin material profiles.
 1.7.6 Updated start g-code for MK4 (modified purge line and nozzle cleaning).
 1.7.5 Updated cooling settings for some ASA filaments to increase interlayer adhesion (XL/MK4). Updated LA values (XL/MK4).
 1.7.4 Updated start g-code script for MK4/XL (fixed pre-print temperature for PA filaments).
