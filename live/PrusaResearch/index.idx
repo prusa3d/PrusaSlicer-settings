@@ -1,4 +1,5 @@
 min_slic3r_version = 2.6.0-beta2
+1.9.7 MK4 Input Shaper RC firmware notification.
 1.9.6 Added filament profile for Prusament PETG V0.
 1.9.5 Added new profiles for MK4 Input Shaper (Alpha).
 1.9.4 Added profiles for MMU3. Updated PA values for MK4IS. Increased minimal purge on wipe tower for XL Multi-Tool.
