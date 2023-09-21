@@ -1,3 +1,4 @@
 min_slic3r_version = 2.6.0-alpha2
+1.0.2 Removed invalid compatible_print condition.
 1.0.1 Swapped Pause GCode, Fixed Chocolate Colors, Resolved Output Format issue from Inheriting Keyword Typo
 1.0.0 Initial
