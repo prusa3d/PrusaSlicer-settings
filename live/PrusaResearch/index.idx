@@ -1,4 +1,5 @@
 min_slic3r_version = 2.6.2-alpha0
+1.11.0-alpha4 Updated compatible printer conditions for specific filament profiles.
 1.11.0-alpha3 Added new print profiles for Prusa MINI Input Shaper (Alpha). Updated MK4 IS profiles.
 1.11.0-alpha2 Added MK3.9 and Prusa MINI Input Shaper (alpha). Enabled binary g-code, arc fitting and QOI/PNG for MINI and MINI IS.
 1.11.0-alpha1 Updated ramming parameters. Updated start-gcode for XL Multi-Tool. Updated output filename format.
