@@ -1,4 +1,5 @@
 min_slic3r_version = 2.6.2-alpha0
+1.11.0-alpha6 Increased MBL temperature for PET. Enabled FW-specific object labels for XL/MK3.9/MK4/MINI. PETG V0 marked as UL certified for MK4.
 1.11.0-alpha5 Added new profiles (additional nozzle diameters) for Prusa MINI Input Shaper (Alpha). Arc fitting changed to I J.
 1.11.0-alpha4 Updated compatible printer conditions for specific filament profiles.
 1.11.0-alpha3 Added new print profiles for Prusa MINI Input Shaper (Alpha). Updated MK4 IS profiles.
