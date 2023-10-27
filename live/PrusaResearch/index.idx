@@ -1,4 +1,5 @@
 min_slic3r_version = 2.6.2-alpha0
+1.11.1-alpha3 Updated print profiles for Prusa XL Input Shaper (Alpha).
 1.11.1-alpha2 Updated print speeds in "SOLUBLE" profiles. Updated filament settings (Prusa XL).
 1.11.1-alpha1 Reduced nozzle temperature in selected filament profiles (Prusa XL 0.6mm nozzle).
 1.11.1-alpha0 Added additional printer checks for Prusa XL Input Shaper (Alpha).
