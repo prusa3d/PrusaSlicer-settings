@@ -1,3 +1,8 @@
+min_slic3r_version = 2.7.0-beta1
+1.11.2-beta0 Bumped up version for beta. Updated start/end g-code for Prusa MINI Input Shaper.
+min_slic3r_version = 2.7.0-alpha2
+1.11.2-alpha1 Updated settings for ramping lift and XL ramming. Updated FW version notification.
+1.11.2-alpha0 Enabled z-hop ramping (PLA/PETG 0.6). Increased Z jerk (XL 0.6 variants). Enabled multi-tool ramming for PLA.
 min_slic3r_version = 2.6.2-alpha0
 1.11.1-alpha4 Updated compatible printer conditions (Prusa MINI Input Shaper). Increased wipe distance (XL 0.6).
 1.11.1-alpha3 Updated print profiles for Prusa XL Input Shaper (Alpha).
