@@ -1,4 +1,5 @@
 min_slic3r_version = 2.6.0-alpha6
+1.0.4 Updated start g-code. Disabled autoemitting of temperature commands.
 1.0.3 Added Voron Switchwire.
 1.0.2 Updated g-code flavor and travel accelerations.
 min_slic3r_version = 2.4.2
