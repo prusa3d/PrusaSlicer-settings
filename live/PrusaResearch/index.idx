@@ -1,4 +1,5 @@
 min_slic3r_version = 2.7.0-beta1
+1.11.2 Bumped up version for 2.7.0-rc1. Added Prusament Resin Model Neutral Beige.
 1.11.2-beta0 Bumped up version for beta. Updated start/end g-code for Prusa MINI Input Shaper.
 min_slic3r_version = 2.7.0-alpha2
 1.11.2-alpha1 Updated settings for ramping lift and XL ramming. Updated FW version notification.
