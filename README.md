@@ -10,7 +10,7 @@ Each bundle contains complete configuration of relevant printers, filaments and 
 
 Along with them is an index file, which Slic3r reads and uses to find out which version is the newest compatible:
 
-`live / {vendor name} / index.ini`
+`live / {vendor name} / index.idx`
 
 Slic3r downloads these setting bundles automatically (unless updating is disabled), and so there should be no need to install them by hand.
 
