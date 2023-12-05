@@ -1,4 +1,5 @@
 min_slic3r_version = 2.7.0-beta1
+1.11.6 Updated FW version notification (XL/MINI/MK4/MK3.9). Updated print profiles for 0.25mm nozzle (XLIS/MK4IS/MK3.9).
 1.11.5 Updated printer names and resources for XL/MINI Input Shaper (final firmware 5.1.0 was released).
 1.11.4 Added filament profile for Prusament rPLA. Updated start g-code for XL Multi-Tool.
 1.11.3 Updated support material settings (XL 0.6). Added new print profiles for MK4/MK3.9 IS 0.6. Updated start g-code (XL/MK4). Updated selected filament profiles. Updated FW version notification for MINI IS and XL IS (5.1.0-BETA). Decreased first layer speed for Prusa MINI IS.
@@ -24,6 +25,7 @@ min_slic3r_version = 2.6.2-alpha0
 1.11.0-alpha1 Updated ramming parameters. Updated start-gcode for XL Multi-Tool. Updated output filename format.
 1.11.0-alpha0 Binary g-code, arc fitting, QOI/PNG thumbnails, 90degree XL tower, XL specific filament variants.
 min_slic3r_version = 2.6.1-rc2
+1.10.9 Updated FW version notification (XL/MINI/MK4/MK3.9). Updated print profiles for 0.25mm nozzle (XLIS/MK4IS/MK3.9).
 1.10.8 Updated printer names and resources for XL/MINI Input Shaper (final firmware 5.1.0 was released).
 1.10.7 Added filament profile for Prusament rPLA. Updated start g-code for XL Multi-Tool.
 1.10.6 Enabled toolchange ramming for PLA. Added new print profiles for MK4/MK3.9 IS 0.6. Updated support material settings (0.6 nozzle). Updated FW version notification for MINI IS and XL IS. Added Prusament Resin Model Neutral Beige.
