@@ -1,4 +1,5 @@
 min_slic3r_version = 2.7.0-beta1
+1.11.8 Updated cooling thresholds in selected filament profiles (MK4/XL).
 1.11.7 Updated binary g-code settings for PrusaSlicer 2.7.1. Binary g-code is not used by default in PrusaSlicer 2.7.0.
 1.11.6 Updated FW version notification (XL/MINI/MK4/MK3.9). Updated print profiles for 0.25mm nozzle (XLIS/MK4IS/MK3.9).
 1.11.5 Updated printer names and resources for XL/MINI Input Shaper (final firmware 5.1.0 was released).
