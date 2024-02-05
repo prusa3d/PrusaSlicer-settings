@@ -1,4 +1,5 @@
 min_slic3r_version = 2.7.0-beta1
+1.11.12 Added profiles for Original Prusa MK3.5.
 1.11.11 Decreased speed of sparse infill in STRUCTURAL profiles. Decreased max volumetric speed for some PETG filaments for better sparse infill quality and reliability (XL/MK4/3.9/MINI - 0.4mm nozzle).
 1.11.10 Updated FW version notification (XL/MINI/MK4/MK3.9).
 1.11.9 Default nozzle diameter for Prusa XL changed to 0.4mm. Added material profile for Prusament Resin Model Ultra Violet. 
