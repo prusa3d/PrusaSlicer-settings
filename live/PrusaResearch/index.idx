@@ -1,3 +1,5 @@
+min_slic3r_version = 2.7.2-beta1
+1.12.0-beta0 Bumped up version for beta.
 min_slic3r_version = 2.7.2-alpha2
 1.12.0-alpha2 Reverted loading distance for MK3.5MMU.
 1.12.0-alpha1 Updated MK3.5MMU3 profiles. Decreased loading distance.
