@@ -1,21 +1,21 @@
-2.7.1
+2.7.2
 alpha=2.7.2-alpha2
 beta=2.7.2-beta1
 
 [common]
-release = 2.7.1
+release = 2.7.2
 alpha = 2.7.2-alpha2
 beta = 2.7.2-beta1
 rc = 2.7.2-rc2
 
 [release:win64]
-url = https://cdn.prusa3d.com/downloads/drivers/prusa3d_win_2_7_1.exe
-size = 74752280
+url = https://cdn.prusa3d.com/downloads/drivers/prusa3d_win_2_7_2.exe
+size = 73866712
 
 [release:linux]
-url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.7.1/PrusaSlicer-2.7.1+linux-x64-GTK3-202312121425.AppImage
-size = 91923648
+url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.7.2/PrusaSlicer-2.7.2+linux-x64-GTK3-202402291307.AppImage
+size = 91620544
 
 [release:osx]
-url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.7.1/PrusaSlicer-2.7.1+MacOS-universal-202312121432.dmg
-size = 113636409
+url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.7.2/PrusaSlicer-2.7.2+MacOS-universal-202402291330.dmg
+size = 105647805
