@@ -1,4 +1,5 @@
 min_slic3r_version = 2.7.2-beta1
+1.12.1 Updated printer profile for "XLIS 5T 0.3mm nozzle" to fix issues with configuration wizard.
 1.12.0 Added profiles for Original Prusa MK3.5 MMU3. Enabled ramping z-hop for MK3.9 and MK4. Added filament profile for Fiberlogy BVOH.
 1.12.0-beta0 Bumped up version for beta.
 min_slic3r_version = 2.7.2-alpha2
@@ -6,6 +7,7 @@ min_slic3r_version = 2.7.2-alpha2
 1.12.0-alpha1 Updated MK3.5MMU3 profiles. Decreased loading distance.
 1.12.0-alpha0 Enabled ramping z-hop for MK4/MK3.9. Added initial profiles for Original Prusa MK3.5 MMU3.
 min_slic3r_version = 2.7.0-beta1
+1.11.14 Updated printer profile for "XLIS 5T 0.3mm nozzle" to fix issues with configuration wizard.
 1.11.13 Added profiles for Original Prusa MK3.5 MMU3. Added filament profile for Fiberlogy BVOH.
 1.11.12 Added profiles for Original Prusa MK3.5.
 1.11.11 Decreased speed of sparse infill in STRUCTURAL profiles. Decreased max volumetric speed for some PETG filaments for better sparse infill quality and reliability (XL/MK4/3.9/MINI - 0.4mm nozzle).
