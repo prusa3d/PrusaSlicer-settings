@@ -1,4 +1,5 @@
 min_slic3r_version = 2.6.0-alpha2
+1.0.5 Hotfix for 2.7.2 color change, as well as ramping prime line to reduce initial blob
 1.0.4 Added proper pause and core change GCode that seems somewhat reliable.
 1.0.3 Swap purge direction for 1.6 nozzle to reduce dwelling time.
 1.0.2 Removed invalid compatible_print condition.
