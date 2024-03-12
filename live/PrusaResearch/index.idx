@@ -1,4 +1,5 @@
 min_slic3r_version = 2.7.3-alpha0
+1.13.0-alpha1 Further adjusted the range of supported filament profiles (MK4 MMU3).
 1.13.0-alpha0 Added initial profiles for MK4/MK3.9 MMU3. Updated start g-code sequence for Prusa XL.
 min_slic3r_version = 2.7.2-beta1
 1.12.2 Added new print profile for 0.25mm nozzle. Updated PA values in selected filament profiles. Updated FW version notification. Updated some filament and print profiles.
