@@ -1,3 +1,5 @@
+min_slic3r_version = 2.7.3-beta1
+1.13.0-beta0 Updated version for 2.7.3-beta1.
 min_slic3r_version = 2.7.3-alpha0
 1.13.0-alpha4 Updated start g-code. Updated purging volumes.
 1.13.0-alpha3 Enabled metrics. Updated FW version notification.
