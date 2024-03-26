@@ -1,4 +1,5 @@
 min_slic3r_version = 2.7.3-beta1
+1.13.0-beta2 Disabled ramping lift for MK3.5.
 1.13.0-beta1 Updated overhang slowdown speeds in selected print profiles (0.6 nozzle). Slightly reduced bed temperature for some PETG filaments (MINI).
 1.13.0-beta0 Updated version for 2.7.3-beta1.
 min_slic3r_version = 2.7.3-alpha0
