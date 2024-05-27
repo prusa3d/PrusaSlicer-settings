@@ -1,4 +1,5 @@
 min_slic3r_version = 2.6.0
+1.1.2 Add support BracingKit for Snapmaker 2. Add support Artisan.
 1.1.1 Fixed overhang speeds. Fixed branch diameter angle for organic supports.
 1.1.0 Add more Snapmaker printers.
 min_slic3r_version = 2.4.1
