@@ -1,4 +1,5 @@
 min_slic3r_version = 2.7.3-beta1
+1.13.4 Updated FW version notification. Added ROSA3D filaments. Updated print profiles.
 1.13.3 Updated FW version notification.
 1.13.2 Added material profiles for Prusament Resin Flex Anatomic Red and Prusament Resin Flex Gingiva Mask.
 1.13.1 Added material profile for Prusament Resin Model Transparent Clear. Enabled stealth mode support for MINI, XL, MK3.5, MK3.9, MK4 (this mode will be available in FW 6.0.0).
