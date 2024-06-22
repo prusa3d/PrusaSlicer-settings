@@ -1,11 +1,11 @@
 2.7.4
 alpha=2.8.0-alpha5
-beta=2.7.3-beta1
+beta=2.8.0-beta1
 
 [common]
 release = 2.7.4
 alpha = 2.8.0-alpha5
-beta = 2.7.3-beta1
+beta = 2.8.0-beta1
 rc = 2.7.5-rc1
 
 [release:win64]
