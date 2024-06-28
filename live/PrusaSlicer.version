@@ -13,8 +13,8 @@ url = https://cdn.prusa3d.com/downloads/drivers/prusa3d_win_2_8_0.exe
 size = 76269184
 
 [release:linux]
-url = https://cdn.prusa3d.com/downloads/drivers/prusa3d_linux_2_8_0.zip
-size = 181100231
+url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.8.0/PrusaSlicer-2.8.0+linux-x64-GTK3-202406270929.AppImage
+size = 94258368
 
 [release:osx]
 url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.8.0/PrusaSlicer-2.8.0+MacOS-universal-202406270936.dmg
