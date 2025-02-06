@@ -1,5 +1,25 @@
 # PrusaSlicer - settings 
 
+This repository is no longer used for __PrusaSlicer 2.8.0 and newer__. New repositories are listed below.
+
+__Prusa3D FDM printers:__
+
+* https://github.com/prusa3d/PrusaSlicer-settings-prusa-fff
+
+__Prusa3D SLA printers:__
+
+* https://github.com/prusa3d/PrusaSlicer-settings-prusa-sla
+
+__Non-Prusa3D FDM printers:__
+
+* https://github.com/prusa3d/PrusaSlicer-settings-non-prusa-fff
+
+__Non-Prusa3D SLA printers:__
+
+* https://github.com/prusa3d/PrusaSlicer-settings-non-prusa-sla
+
+## ---
+
 ### Applicable since Slic3r PE 1.40.0
 
 PrusaSlicer settings are present in the `live` directory. The structure is as follows:
