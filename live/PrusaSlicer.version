@@ -6,7 +6,7 @@ beta=2.9.1-beta1
 release = 2.9.0
 alpha = 2.9.1-alpha1
 beta = 2.9.1-beta1
-rc = 2.9.1-rc1
+rc = 2.9.1-rc2
 
 [release:win64]
 url = https://cdn.prusa3d.com/downloads/drivers/prusa3d_win_2_9_0.exe
