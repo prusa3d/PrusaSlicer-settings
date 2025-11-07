@@ -1,22 +1,21 @@
-2.9.3
+2.9.4
 alpha=2.9.1-alpha1
 beta=2.9.3-beta1
 
 [common]
-release = 2.9.3
+release = 2.9.4
 alpha = 2.9.1-alpha1
 beta = 2.9.3-beta1
 rc = 2.9.4-rc1
 
 [release:win64]
-url = https://cdn.prusa3d.com/downloads/drivers/prusa3d_win_2_9_3.exe
-size = 92389520
+url = https://cdn.prusa3d.com/downloads/drivers/prusa3d_win_2_9_4.exe
+size = 93972104
 
 [release:linux]
 url = https://flathub.org/apps/com.prusa3d.PrusaSlicer
 action = browser
 
 [release:osx]
-url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.9.3/PrusaSlicer-2.9.3.dmg
-size = 137411605
-
+url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.9.4/PrusaSlicer-2.9.4.dmg
+size = 139267797
